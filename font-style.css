@@ -1,0 +1,48 @@
+.logo{
+font-family: barlow;
+border-style: solid;
+border-width: 2px;
+max-width: 80px;
+padding-left: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+.slogan{
+font-family: barlow;
+font-style: italic;
+margin-left: 10px;
+}
+
+.banner{
+margin-top: 30px;
+font-family: barlow;
+font-style: italic;
+color: #ffffff;
+background-color: #000033;
+max-width: 900px;
+text-align: center;
+letter-spacing: 3px;
+}
+
+.intro{
+font-family: barlow;
+}
+
+body{
+background-color: #ffcc33;
+}
+
+.title{
+font-family: barlow;
+font-size: 40px;
+margin-left: 240px;
+}
+
+.netflix{
+font-family: barlow;
+color: #ff3300;
+font-size: 100px;
+line-height: 1px;
+margin-left: 330px;
+}
