@@ -1,0 +1,159 @@
+.logo{
+font-family: barlow;
+border-style: solid;
+border-width: 2px;
+max-width: 80px;
+padding-left: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+.slogan{
+font-family: barlow;
+font-style: italic;
+margin-left: 10px;
+}
+
+.banner{
+margin-top: 30px;
+font-family: barlow;
+font-style: italic;
+color: #ffffff;
+background-color: #000066;
+max-width: 900px;
+text-align: center;
+letter-spacing: 3px;
+}
+
+.intro{
+font-family: barlow;
+margin-left: 40px;
+}
+
+body{
+background-color: #ffcc33;
+}
+
+.bar{
+width: 50px;
+height: 500px;
+background-color: #000000;
+}
+
+.title{
+font-family: barlow;
+font-size: 40px;
+margin-left: 240px;
+position: relative;
+top: -400px;
+}
+
+.netflix{
+font-family: barlow;
+color: #ff3300;
+font-size: 100px;
+line-height: 1px;
+margin-left: 330px;
+position: relative;
+top: -400px;
+}
+
+.crown,.altered,.end,.stranger{
+border-radius: 50%;
+position: relative;
+top: -620px;
+right: -400px;
+}
+
+.altered{
+top: -100px;
+right: -1110px;
+}
+
+.end{
+top: 160px;
+right: 300px;
+}
+
+.stranger{
+top: -300px;
+right: 900px;
+}
+
+.stranger-title,.crown-title,.altered-title,.end-title{
+font-family: barlow;
+font-weight: bold;
+font-size: 20px;
+position: relative;
+right: -345px;
+top: -534px;
+}
+
+.dot1,.dot2,.dot3,.dot4{
+width: 30px;
+height: 30px;
+background-color: #000000;
+position: relative;
+right: -525px;
+top: -580px;
+}
+
+.stranger-desc{
+font-family: barlow;
+position: relative;
+top: -580px;
+right: -40px;
+}
+
+.dot2{
+right: -1450px;
+top: -1200px;
+}
+
+.crown-title{
+right: -1490px;
+top: -1154px;
+}
+
+.crown-desc{
+font-family: barlow;
+position: relative;
+right: -1450px;
+top: -1200px;
+}
+
+.dot3{
+right: -1650px;
+top: -1090px;
+}
+
+.altered-title{
+right: -1690px;
+top: -1044px;
+}
+
+.altered-desc{
+font-family: barlow;
+position: relative;
+right: -1650px;
+top: -1090px;
+}
+
+.dot4{
+right: -1240px;
+top: -1050px;
+}
+
+.end-title{
+right: -1280px;
+top: -1003px;
+}
+
+.end-desc{
+font-family: barlow;
+position: relative;
+right: -1240px;
+top: -1050px;
+}
+
+
